@@ -1,9 +1,9 @@
 # Case_Study_Time_Series
-ALL python jupyter notebook
+ALL python jupyter notebook\
 The data provided is of 5 years worth of stock values from 2018-2022.\
 Your job is to analyze and make models to predict this stock. Try as many models as possible.
  
-#Data Dictionary:-
+#Data Dictionary:-\
 Date: Date at which a particular value of stock was recorded.\
 Open:: The value at which stock was opened at that day.\
 High:: Highest value of the stock during the day.\
